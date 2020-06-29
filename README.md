@@ -1,2 +1,2 @@
 # projeto-modeloAna
- Projeto de construção de site para uma modelo
+ Meu primeiro projeto de site, feito durante aula do curso de Desenvolvimento Web de Jamilton Damasceno.
